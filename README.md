@@ -12,12 +12,10 @@ Example queries
 
 
 -Show me the capabilities having high priority
-
-  -which of these have low maturity 
+      -which of these have low maturity 
   
 -show me all the capabilities with high maturity
-
-  -from these display the one with low priority
+      -from these display the one with low priority
   
   
   
