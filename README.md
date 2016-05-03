@@ -11,11 +11,13 @@ it can support upto two level of nesting of queries
 Example queries
 
 
--Show me the capabilities having high priority
-      -which of these have low maturity 
+1.1 -Show me the capabilities having high priority
+
+     1.2 -which of these have low maturity 
   
--show me all the capabilities with high maturity
-      -from these display the one with low priority
+2.1-Show me all the capabilities with high maturity
+
+      2.2-from these display the one with low priority
   
   
   
