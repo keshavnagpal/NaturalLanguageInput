@@ -19,6 +19,10 @@ Example queries
 
       2.2-from these display the one with low priority
   
+
+3.1-Show me the capabilities having high priority, sorry i meant low priority 
+
+      3.1-which of these are having high maturity 
   
   
 Don't be limited to only example queries i'm sure you can think of many more using the same pattern
