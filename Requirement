@@ -10,4 +10,4 @@ https://pypi.python.org/pypi/SpeechRecognition/3.4.3
 
 Working Internet connection for speech recognition
 
-if you don't hvae internet connection you can uncomment the text input part and comment the speech input
+if you want this to work offline you can uncomment the text input part and comment the speech input
